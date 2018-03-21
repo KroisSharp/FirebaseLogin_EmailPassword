@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "638611341731",
+    "firebase_url": "https://fir-authtest-8810f.firebaseio.com",
+    "project_id": "fir-authtest-8810f",
+    "storage_bucket": "fir-authtest-8810f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638611341731:android:59cbe1d2bdeba6eb",
+        "android_client_info": {
+          "package_name": "dk.easjvoodoo.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638611341731-qfaeq415f8tkfl947f30gmhqt2is20qj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhYfiBZsam6m3NcPWYltEJy0WUOSFlifc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

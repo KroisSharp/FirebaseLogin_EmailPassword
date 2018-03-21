@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="enter_username">Enter username</string>
+    <string name="log_in">Log in</string>
+    <string name="sign_up">sign up</string>
+    <string name="allready_a_user_click_here">allready a user? click here</string>
+    <string name="sign_in">sign in</string>
+    <string name="user_login">User login:</string>
+    <string name="you_are_logged_in">You are logged in</string>
+    <string name="log_out">log out</string>
+</resources>
